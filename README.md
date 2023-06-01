@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Magdy</h1>
-<h3 align="center">CS student |software engineer</h3>
+<h3 align="center">CS student</h3>
 
 - 🌱 I’m currently learning **Spring**
 
