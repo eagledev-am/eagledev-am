@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Magdy</h1>
 
 # 💫 About Me:
-🔭 I’m Currently Student<br>👯 I’m looking to make amazing products<br>🌱 I’m currently learning Spring <br>💬 Ask me Data structure 
+🔭 I’m Currently Senior Student @FCI<br>👯I was a trainee for fawry company <br>🌱 I’m currently learning Spring <br>
 
 
 ## 🌐 Socials:
